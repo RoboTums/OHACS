@@ -1,0 +1,25 @@
+h1.Title {
+    font: sans-serif;
+    font-size: 4cm;
+    color: blueviolet;
+    margin: auto;
+    text-align: center;
+}
+
+div.Welcome{
+    border-style: groove;
+    font: bold;
+    font-size: 3pc;
+    color: coral;   
+}
+div :hover{
+    font:bolder;
+    color: orange;
+}
+p.lesserPtag{
+    font: lighter;
+    font-size: 1pc;
+    color: #BB0000;
+    padding: 25px;
+    text-align: center;
+}
